@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="title_activity_deletepage">deletepage</string>
+    <string name="title_activity_alterpage">alterpage</string>
+</resources>
